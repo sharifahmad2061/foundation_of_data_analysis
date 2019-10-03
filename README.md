@@ -1,4 +1,5 @@
 # Foundations of Data Analysis Course Part 1 (EDX)
-- Week 01 : Descriptive statistics
+- Week 01 : Introduction to Data
 - Week 02 : Univariate Data, its Measurure of Center & Spread, Z-score
-- Week 03 : BiVariate Data, Correlation Coefficient, Coefficient of Determination
+- Week 03 : BiVariate Distribution, Correlation Coefficient, Coefficient of Determination
+- Week 04 : BiVariate Distributions (Categorical Data)
